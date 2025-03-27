@@ -1,9 +1,16 @@
 # 1. Variables and Basic Data Types
 
 # a. Assign the number 10 to a variable named my_number.
+my_number = 10
 # b. Assign the string "Hello, Python!" to a variable named my_string.
+my_string = "Hello, Python!"
+
 # c. Assign the float 3.14 to a variable named my_float.
+my_float = 3.14
 # Print each variable: my_number, my_string, and my_float.
+print (my_number)
+print (my_string)
+print (my_float)
 
 my_number = 10
 my_string = "Hello, Python!"
@@ -16,6 +23,9 @@ print("Float:", my_float)
 
 # a. String concatenation
 # Create two string variables: first_name and last_name.
+first_name = "Baraa"
+Last_name = "Zeidan" 
+
 # Concatenate them with a space in between to form a full name and assign this to a variable named full_name.
 # Print the full_name.
 

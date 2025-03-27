@@ -5,6 +5,7 @@
 
 ## 1. Variables and Basic Data Types
 a. Assign the number 10 to a variable named `my_number`.
+my_number = 10 
 
 b. Assign the string "Hello, Python!" to a variable named `my_string`.
 
